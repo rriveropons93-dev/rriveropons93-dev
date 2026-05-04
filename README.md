@@ -1,16 +1,18 @@
-## Hi there 👋
+# Roger Antonio Rivero Pons 👋
+**Software Developer | Former University Professor | Scientist**
 
-<!--
-**rriveropons93-dev/rriveropons93-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently building **Eight32**, an AI-integrated educational platform focused on connecting students, professors, and institutional metrics.
 
-Here are some ideas to get you started:
+### 🧠 Technical Background
+* **Full-Stack Stack**: FastAPI, Google Cloud Run, Supabase, Vercel, React, and Tailwind.
+* **Competitive Programming**: Experience in national Math Olympiads and the ACM-ICPC.
+* **Academic Experience**: Former university professor and scientist.
+* **Performance Focus**: Actively monitoring technical metrics including latency and Time To First Token (TTFT).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects & Plans
+* **Eight32**: Developing a multimodal AI chat with audio integration and institutional reporting dashboards.
+* **Data Science**: Interested in advanced financial modeling using support vector machines (SVM), covariance analysis, and stacked modeling.
+* **Education**: Current student at Dallas College.
+
+---
+*Note: Most of my development occurs in private repositories due to the commercial nature of Eight32. My contribution graph reflects my daily commitment to this project.*
