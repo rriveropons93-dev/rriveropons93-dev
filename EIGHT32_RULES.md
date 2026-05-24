@@ -44,7 +44,3 @@ Any AI agent (Antigravity or others) MUST read and obey these rules BEFORE writi
 8. **Schemas as SSOT:** `core/schemas_db.py` is the anchor of reality.
 9. **YAGNI 2.0 (Avoid Premature Decomposition):** Until a function reaches a painful level of nesting or a file exceeds 1,500 lines, leave it be.
 10. **ZERO NOISE (FLAT CORE):** Creating useless subfolders to group 1 or 2 files is forbidden. If a file defines base types (like `schemas_db`), it must live naked and visible at the root of `core/` or inside the file that consumes it, to maximize the probability that the AI reads it instinctively.
-
-YAGNI 2.0 (Avoid Premature Decomposition): Until a function reaches a painful level of nesting or a file exceeds 1,500 lines, leave it be.
-
-ZERO NOISE (FLAT CORE): Creating useless subfolders to group 1 or 2 files is forbidden. If a file defines base types (like schemas_db), it must live naked and visible at the root of core/ or inside the file that consumes it, to maximize the probability that the AI reads it instinctively.
