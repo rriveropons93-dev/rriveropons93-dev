@@ -1,6 +1,12 @@
 # Roger Antonio Rivero Pons 👋
 **Software Developer | Former University Professor | Scientist**
 
+### ⚡ AI-Native Architecture Rules
+I don't use standard software patterns for LLMs; I build infrastructure designed for silicon brains. 
+I open-sourced the exact ruleset I use to orchestrate my AI agents, eliminate context fragmentation, and drop hallucination rates to zero on my 29k-line codebase.
+
+**👉 [Read the EIGHT32_RULES Manifesto here](./EIGHT32_RULES.md)**
+
 I am currently building **Eight32**, an AI-integrated educational platform focused on connecting students, professors, and institutional metrics.
 
 ### 🧠 Technical Background
